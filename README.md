@@ -3,6 +3,21 @@
 </h1>
 <h3>Desenvolvedor Python-End </h3>
 
+##
+📖 Eu estou estudando Desenvolvimento de sistemas
+
+🧑‍💻 Eu estou programando em Python
+
+📨 Meu email: denissilva@ce.senac.br
+
+##
+
+<div align="center">
+  <a href="https://github.com/denisilvace"> 
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=denisilvace&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=denisilvace&layout=compact&langs_count=16&theme=dark" />
+  </a>
+</div>
 
 <!--
 **senatice/senatice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
